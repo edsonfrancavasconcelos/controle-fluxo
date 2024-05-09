@@ -35,4 +35,4 @@ Copy code
 6
 7
 Autor
-Este projeto foi desenvolvido por [Seu Nome].
+Este projeto foi desenvolvido por Edson França Vasconcelos.
